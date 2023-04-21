@@ -95,8 +95,3 @@ app.listen(3000, function () {
   console.log("Running on Port 3000");
 });
 
-//Mailchimp API
-//  f8ba3d5b9d35f46121da9adaca5e085c-us21
-
-//Audience ID: https://us21.admin.mailchimp.com/lists/settings/defaults?id=8792
-//  e2adcc1aa9
